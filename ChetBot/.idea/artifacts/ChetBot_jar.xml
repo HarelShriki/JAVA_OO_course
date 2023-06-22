@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ChetBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChetBot_jar</output-path>
+    <root id="archive" name="ChetBot.jar">
+      <element id="module-output" name="ChetBot" />
+      <element id="dir-copy" path="$PROJECT_DIR$/assets" />
+    </root>
+  </artifact>
+</component>
